@@ -127,3 +127,7 @@ This task demonstrated how to:
 - Protect access credentials by sharing only placeholder code.
 
 **OUTPUT**:
+
+<img width="963" height="130" alt="Image" src="https://github.com/user-attachments/assets/78a2a6e1-f1c2-49e6-8b4f-528fe82dbf31" />
+
+<img width="2880" height="1800" alt="Image" src="https://github.com/user-attachments/assets/e4d47727-4dd0-4446-b5a4-9fce137c64c7" />
